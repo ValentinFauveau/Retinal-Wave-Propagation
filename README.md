@@ -13,4 +13,4 @@ For modeling the amacrine cells we use a hexagonal grid of nxn cells.
 ## Graphical User Interface 
 The user has to select the size of the hexagonal matrix, the studied specie, the duration of the analysis and if he wants to add or not noise to the experiment.
 
-![GUI](https://github.com/ValentinFauveau/Retinal-Wave-Propagation/GUI.png)
+![gui](https://user-images.githubusercontent.com/35737567/45521327-710fd400-b78b-11e8-8408-a7624716adcd.png)
