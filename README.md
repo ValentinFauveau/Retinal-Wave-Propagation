@@ -16,3 +16,7 @@ The user has to select the size of the hexagonal matrix, the studied specie, the
 ![gui](https://user-images.githubusercontent.com/35737567/45521327-710fd400-b78b-11e8-8408-a7624716adcd.png)
 
 ## Results
+
+[Excitation of retinal cells without noise](https://www.youtube.com/watch?v=8mClu9iu5rY)
+
+[Excitation of retinal cells with noise](https://www.youtube.com/watch?v=AefSTYTgbMU)
