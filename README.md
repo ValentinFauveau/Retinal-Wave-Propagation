@@ -1,7 +1,7 @@
 # Retinal-Wave-Propagation
 Simulation of the wave propagation during development based on the model described by Godfrey et al. (2007)
 
-I propose a code implemented in Matlab (prerequisites Matlab version 7 or later) in order to simulate the behavior described in the paper "Retinal Wave Behavior through Activity-Dependent Refractory Periods" by Godfrey et al. in 2007.
+I propose a code implemented in Matlab in order to simulate the behavior described in the paper "Retinal Wave Behavior through Activity-Dependent Refractory Periods" by Godfrey et al. in 2007.
 
 ## Introduction
 
@@ -20,3 +20,9 @@ The user has to select the size of the hexagonal matrix, the studied specie, the
 [Excitation of retinal cells without noise](https://www.youtube.com/watch?v=8mClu9iu5rY)
 
 [Excitation of retinal cells with noise](https://www.youtube.com/watch?v=AefSTYTgbMU)
+
+### Prerequisites
+Matlab version 7 or later
+
+## Author
+Valentin Fauveau
