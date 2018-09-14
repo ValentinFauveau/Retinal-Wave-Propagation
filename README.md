@@ -1,7 +1,7 @@
 # Retinal-Wave-Propagation
 Simulation of the wave propagation during development based on the model described by Godfrey et al. (2007)
 
-I propose a code implemented in Matlab in order to simulate the behavior described in the paper "Retinal Wave Behavior through Activity-Dependent Refractory Periods" by Godfrey et al. in 2007.
+I propose a code implemented in Matlab (prerequisites Matlab version 7 or later) in order to simulate the behavior described in the paper "Retinal Wave Behavior through Activity-Dependent Refractory Periods" by Godfrey et al. in 2007.
 
 ## Introduction
 
